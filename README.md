@@ -188,5 +188,5 @@ Don't forget to leave a star for this project if you found the solution helpful.
 
 # Deployment
 * Render - server side
-* Netlify - client side
+* Netlify - client sid
 
