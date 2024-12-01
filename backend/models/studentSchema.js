@@ -12,6 +12,7 @@ const studentSchema = new mongoose.Schema({
     password: {
         type: String,
         required: true
+        
     },
     sclassName: {
         type: mongoose.Schema.Types.ObjectId,
