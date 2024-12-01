@@ -1,5 +1,5 @@
 <h1 align="center">
-    COLLEGE MANAGEMENT SYSTEM
+    SCHOOL MANAGEMENT SYSTEM
 </h1>
 
 <h3 align="center">
