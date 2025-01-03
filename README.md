@@ -36,7 +36,5 @@ The College Management System is a web-based application built using the MERN (M
 <br>
 
 
-# Deployment
-* Render - server side
-* Netlify - client sid
+
 
